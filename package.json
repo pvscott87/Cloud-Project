@@ -2,7 +2,7 @@
   "name": "cloud-project",
   "version": "1.0.0",
   "description": "number guessing game",
-  "main": "TheGame.js",
+  "main": "GameUI.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
