@@ -1,0 +1,24 @@
+{
+  "name": "cloud-project",
+  "version": "1.0.0",
+  "description": "number guessing game",
+  "main": "TheGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvscott87/Cloud-Project.git"
+  },
+  "keywords": [
+    "number",
+    "guessing",
+    "game"
+  ],
+  "author": "Peter Scott pvscott@my.waketech.edu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvscott87/Cloud-Project/issues"
+  },
+  "homepage": "https://github.com/pvscott87/Cloud-Project#readme"
+}
